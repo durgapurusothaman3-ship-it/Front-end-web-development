@@ -41,5 +41,19 @@ PPT LINK - https://www.canva.com/design/DAHBRqNk2NI/khpDOkjA-RkZ0xZ3LdKDSA/edit?
 
 CAPTION - A clean and simple HTML notice board layout Designed using basic HTML and CSS styling Displays college announcements in organized cards Easy to edit and beginner friendly
 
+                                                  Hover and Transitions
+
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/hover%20and%20transitions
+
+ppt link - https://www.canva.com/design/DAHERAxVfjE/AHc_1QKli9J-HkAWu3LRjQ/edit?utm_content=DAHERAxVfjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+caption - Smooth hover effects that bring your design to life.
+
+Simple transitions, powerful visual impact.
+
+Interactive elements made easy with CSS.
+
+Elevate user experience with subtle animations.
+
 
 
