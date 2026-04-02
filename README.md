@@ -55,5 +55,13 @@ Interactive elements made easy with CSS.
 
 Elevate user experience with subtle animations.
 
+                                                  Calculator
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/Calculator
 
+ppt link - https://canva.link/d7o2srwb1hlsw4q
+
+caption - A simple and stylish web-based calculator built using HTML, CSS, and JavaScript.
+It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+The interface is clean and user-friendly with responsive buttons and a clear display screen.
+JavaScript functions handle input, calculation, and clearing operations efficiently.
 
