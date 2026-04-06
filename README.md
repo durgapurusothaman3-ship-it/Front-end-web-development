@@ -65,3 +65,6 @@ It allows users to perform basic arithmetic operations like addition, subtractio
 The interface is clean and user-friendly with responsive buttons and a clear display screen.
 JavaScript functions handle input, calculation, and clearing operations efficiently.
 
+                                              TO DO LIST
+                                              
+
