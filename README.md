@@ -74,5 +74,17 @@ caption - Simple To-Do List web app using HTML, CSS, and JavaScript.
 Users can add tasks and remove them easily.
 Clean and minimal design for better usability.
 Great beginner project for learning web development basics.
-                                              
+
+                                        FORM VALIDATION
+Demo link -https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/Form%20Validation
+
+ppt link - https://canva.link/iiouvspwdlp9kc1
+
+caption - Simple form with basic input fields for name, email, and password.
+Uses JavaScript to validate empty fields before submission.
+Ensures password is at least 6 characters long.
+Displays error messages for better user guidance.
+
+                                        Digital clock
+Demo link -                                               
 
