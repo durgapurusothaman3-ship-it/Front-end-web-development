@@ -86,5 +86,12 @@ Ensures password is at least 6 characters long.
 Displays error messages for better user guidance.
 
                                         Digital clock
-Demo link -                                               
+Demo link -  https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/clock
+
+ppt link - https://canva.link/15y8xbnr7jaf80e
+
+caption - Simple digital clock using HTML and JavaScript.
+Displays the current time in real-time.
+Updates every second using setInterval().
+Easy project to understand date and time functions.
 
