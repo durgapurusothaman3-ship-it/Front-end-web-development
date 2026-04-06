@@ -66,5 +66,13 @@ The interface is clean and user-friendly with responsive buttons and a clear dis
 JavaScript functions handle input, calculation, and clearing operations efficiently.
 
                                               TO DO LIST
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/to%20do%20list
+
+ppt link - https://canva.link/4lx7lf8q8rbvkko
+
+caption - Simple To-Do List web app using HTML, CSS, and JavaScript.
+Users can add tasks and remove them easily.
+Clean and minimal design for better usability.
+Great beginner project for learning web development basics.
                                               
 
