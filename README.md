@@ -95,3 +95,7 @@ Displays the current time in real-time.
 Updates every second using setInterval().
 Easy project to understand date and time functions.
 
+
+
+DEMO LINK - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/IMAGE%20SLIDER.HTML
+
