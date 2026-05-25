@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<head>
+  
+  <title> Image Slider</title>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #ffe6f2;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+
+    .slider {
+      width: 500px;
+      height: 300px;
+      overflow: hidden;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+      position: relative;
+      background: white;
+    }
+
+    .slides {
+      display: flex;
+      width: 300%;
+      transition: transform 0.5s ease;
+    }
+
+    .slides img {
+      width: 500px;
+      height: 300px;
+      object-fit: cover;
+    }
+
+    .buttons {
+      position: absolute;
+      width: 100%;
+      top: 50%;
+      display: flex;
+      justify-content: space-between;
+      transform: translateY(-50%);
+    }
+
+    button {
+      background: rgba(255,255,255,0.7);
+      border: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      font-size: 18px;
+      border-radius: 50%;
+    }
+
+    button:hover {
+      background: white;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="slider">
+    <div class="slides" id="slides">
+      <img src="c:\Users\DELL\Pictures\Screenshot 2026-02-07 213002.png" alt="IMAGE 1">
+      <img src="c:\Users\DELL\Pictures\Screenshot 2025-10-17 115030.png" alt="IMAGE 2">
+      <img src="c:\Users\DELL\Pictures\Screenshot 2026-01-02 094202.png" alt="IMAGE 3">
+    </div>
+
+    <div class="buttons">
+      <button onclick="prevSlide()">❮</button>
+      <button onclick="nextSlide()">❯</button>
+    </div>
+  </div>
+
+  <script>
+    let currentSlide = 0;
+
+    const slides = document.getElementById("slides");
+    const totalSlides = 3;
+
+    function showSlide(index) {
+      slides.style.transform = `translateX(-${index * 500}px)`;
+    }
+
+    function nextSlide() {
+      currentSlide = (currentSlide + 1) % totalSlides;
+      showSlide(currentSlide);
+    }
+
+    function prevSlide() {
+      currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+      showSlide(currentSlide);
+    }
+
+    
+    setInterval(nextSlide, 3000);
+  </script>
+
+</body>
+</html>
