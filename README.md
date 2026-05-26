@@ -95,7 +95,13 @@ Displays the current time in real-time.
 Updates every second using setInterval().
 Easy project to understand date and time functions.
 
-
-
+                                         
+                                           Image Slider
 DEMO LINK - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/IMAGE%20SLIDER.HTML
 
+ppt link - https://canva.link/yckqsqhxghz9aw1
+
+Caption - This code creates a simple and stylish image slider using HTML, CSS, and JavaScript.
+The slider automatically changes images every 3 seconds with smooth transition effects.
+Users can also navigate manually using the previous and next arrow buttons.
+CSS styling adds a modern pink-themed design with rounded corners and shadow effects.
