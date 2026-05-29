@@ -117,3 +117,14 @@ Built using HTML and CSS with clean layout.
 Fast, simple, and user-friendly interface.
 Perfect beginner frontend development project.
 
+
+                                        Font Awesome in Webpage
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/Font%20Awesome.html
+
+ppt link - https://canva.link/xwle4y50kzynryn
+
+Caption - Simple webpage using Font Awesome icons.
+Icons improve website design and user experience.
+Built with HTML, CSS, and Font Awesome CDN.
+Responsive and easy for frontend beginners to learn.
+
