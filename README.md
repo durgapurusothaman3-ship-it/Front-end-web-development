@@ -105,3 +105,15 @@ Caption - This code creates a simple and stylish image slider using HTML, CSS, a
 The slider automatically changes images every 3 seconds with smooth transition effects.
 Users can also navigate manually using the previous and next arrow buttons.
 CSS styling adds a modern pink-themed design with rounded corners and shadow effects.
+
+
+                                        Responsive Website
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/Responsive%20website.html
+
+ppt - https://canva.link/xqff0mjey279met
+
+Caption - Modern responsive website design for all devices.
+Built using HTML and CSS with clean layout.
+Fast, simple, and user-friendly interface.
+Perfect beginner frontend development project.
+
