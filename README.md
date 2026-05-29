@@ -128,3 +128,15 @@ Icons improve website design and user experience.
 Built with HTML, CSS, and Font Awesome CDN.
 Responsive and easy for frontend beginners to learn.
 
+
+                                     Bootstrap Components
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/BOOTSTRAP%20COMPONENTS.html
+
+ppt link - https://canva.link/cc3qhygtjujgxbh
+
+Caption - Simple Bootstrap webpage with navbar, card, and modal.
+Built using Bootstrap 5 components for easy design.
+Responsive layout works on all screen sizes.
+Useful beginner project for frontend development practice.
+
+
