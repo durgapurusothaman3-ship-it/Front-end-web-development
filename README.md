@@ -140,3 +140,15 @@ Responsive layout works on all screen sizes.
 Useful beginner project for frontend development practice.
 
 
+                                  Event Handling
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/Event%20Handling
+
+ppt link - https://canva.link/57yyfgzldr2im16
+
+Caption - This program demonstrates JavaScript event handling in a web page.
+The “Click Me” button displays a message when clicked.
+The “Hover effect” button changes the background color on mouse hover.
+It uses HTML, CSS, and JavaScript to create interactive user actions.
+
+
+
