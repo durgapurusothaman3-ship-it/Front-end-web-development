@@ -151,4 +151,16 @@ The “Hover effect” button changes the background color on mouse hover.
 It uses HTML, CSS, and JavaScript to create interactive user actions.
 
 
+                            WEBSITE
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/WEBSITE.HTML
+
+ppt link - https://canva.link/m97upm3k0hjumnh
+
+Caption - Step into the world of horror and suspense.
+Explore chilling reviews of famous English horror movies.
+From haunted dolls to deadly silence, every story thrills.
+Click and reveal the scary reviews hidden inside!
+
+
+
 
