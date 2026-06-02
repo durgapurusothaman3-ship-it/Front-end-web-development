@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Reviews</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #111;
+            color: white;
+            text-align: center;
+        }
+
+        h1 {
+            color: red;
+        }
+
+        .movie {
+            background-color: #222;
+            width: 300px;
+            margin: 20px auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        img {
+            width: 250px;
+            height: 350px;
+            border-radius: 10px;
+        }
+
+        button {
+            padding: 10px;
+            background-color: red;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background-color: darkred;
+        }
+
+        .review {
+            display: none;
+            margin-top: 10px;
+            color: lightgray;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>English Horror Movie Reviews</h1>
+
+    
+    <div class="movie">
+        <h2>Annabelle</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/en/9/90/Annabelle_film_poster.jpg">
+        <br>
+        <button onclick="showReview('r3')">Show Review</button>
+        <p class="review" id="r3">
+            A terrifying doll story with dark supernatural moments.
+        </p>
+    </div>
+
+    
+    <div class="movie">
+        <h2>The Nun</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/34/TheNunPoster.jpg">
+        <br>
+        <button onclick="showReview('r4')">Show Review</button>
+        <p class="review" id="r4">
+            A dark horror movie with spooky visuals and intense jump scares.
+        </p>
+    </div>
+
+    
+    <div class="movie">
+        <h2>A Quiet Place</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png">
+        <br>
+        <button onclick="showReview('r5')">Show Review</button>
+        <p class="review" id="r5">
+            A thrilling horror movie where silence becomes the key to survival.
+        </p>
+    </div>
+
+    <script>
+        function showReview(id) {
+            var review = document.getElementById(id);
+
+            if (review.style.display == "block") {
+                review.style.display = "none";
+            } else {
+                review.style.display = "block";
+            }
+        }
+    </script>
+
+</body>
+</html>
