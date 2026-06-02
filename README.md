@@ -173,5 +173,14 @@ Includes a navbar, hero section, content area, and footer.
 Perfect for beginners learning React basics.
 
 
+                  React App
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/React%20App.html
+
+ppt link - https://canva.link/vdg7szqs5f4spt9
+
+Caption - A simple and responsive React single page website.
+Designed with a clean layout and modern UI sections.
+Includes navigation, hero banner, content, and footer.
+Great for learning React basics and frontend design.
 
 
