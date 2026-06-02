@@ -162,5 +162,16 @@ From haunted dolls to deadly silence, every story thrills.
 Click and reveal the scary reviews hidden inside!
 
 
+                     React Page
+Demo link - https://durgapurusothaman3-ship-it.github.io/Front-end-web-development/REACT.HTML
+
+ppt link - https://canva.link/5bt2cgmrly4swcl
+
+Caption - A clean and modern React single page design.
+Built with simple components and responsive styling.
+Includes a navbar, hero section, content area, and footer.
+Perfect for beginners learning React basics.
+
+
 
 
